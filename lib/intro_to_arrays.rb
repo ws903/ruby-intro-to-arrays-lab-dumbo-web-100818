@@ -10,3 +10,6 @@ def array_with_two_elements
   lst
 end
 
+def first_element(array)
+  array[0]
+end
